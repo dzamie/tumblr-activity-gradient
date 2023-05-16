@@ -1,9 +1,12 @@
 // ==UserScript==
-// @name     Follow/Mutual Activity Gradient
-// @version  1.0
-// @author   dzamie
-// @include  https://www.tumblr.com/*
-// @run-at   document-idle
+// @name        Follow/Mutual Activity Gradient
+// @description Replaces tumblr's new activity box labels with background gradients.
+// @version     1.0
+// @author      dzamie
+// @include     https://www.tumblr.com/*
+// @namespace   https://github.com/dzamie
+// @license     GNU AGPL v3.0
+// @run-at      document-idle
 // ==/UserScript==
 
 
